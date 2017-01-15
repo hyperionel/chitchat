@@ -186,7 +186,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap (~> 4.0.0.alpha3)
+  bootstrap (~> 4.0.0.alpha4)
   byebug
   coffee-rails (~> 4.2)
   devise
